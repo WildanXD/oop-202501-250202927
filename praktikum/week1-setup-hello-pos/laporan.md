@@ -80,7 +80,6 @@ List<Integer> harga = Arrays.asList(2500000, 150000, 500000);
 ---
 
 ## Analisis
-## Analisis
 
 ### 1. Analisis Cara Kerja Program
 
@@ -106,7 +105,6 @@ Di minggu ini saya belum mendapatkan kendala, semuanya berjallan dengan lancar.
 
 ---
 
-## Kesimpulan
 ## Kesimpulan
 
 Berdasarkan praktikum yang telah dilakukan, dapat disimpulkan bahwa bahasa pemrograman Java dapat digunakan untuk menerapkan paradigma prosedural, Object-Oriented Programming (OOP), dan fungsional. Ketiga paradigma tersebut memiliki pendekatan yang berbeda dalam menyusun dan menjalankan program, meskipun dapat menghasilkan keluaran yang serupa.
