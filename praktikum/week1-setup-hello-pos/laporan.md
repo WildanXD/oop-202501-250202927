@@ -72,11 +72,11 @@ List<Integer> harga = Arrays.asList(2500000, 150000, 500000);
 ---
 
 ## Hasil Eksekusi
-(Sertakan screenshot hasil eksekusi program.  
+
 ![Screenshot hasil](screenshots/Prosedural_Java.png)
 ![Screenshot hasil](screenshots/OOP_Java.png)
 ![Screenshot hasil](screenshots/Functional_Java.png)
-)
+
 ---
 
 ## Analisis
